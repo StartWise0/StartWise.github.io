@@ -1,0 +1,36 @@
+<div className="Contact" style={{width: 1804, height: 1416, position: 'relative', background: '#FCFCFC'}}>
+  <div className="ContactUs" style={{width: 1476, height: 681, left: 164, top: 218, position: 'absolute'}}>
+    <div className="BodyText" style={{left: 63, top: 361, position: 'absolute', color: '#6D6D6D', fontSize: 18, fontFamily: 'Satoshi', fontWeight: '700', textTransform: 'capitalize', lineHeight: 30.32, wordWrap: 'break-word'}}>info.webcontract@gmail.com</div>
+    <div className="BodyText" style={{left: 63, top: 414, position: 'absolute', color: '#6D6D6D', fontSize: 18, fontFamily: 'Satoshi', fontWeight: '700', textTransform: 'capitalize', lineHeight: 30.32, wordWrap: 'break-word'}}>+31684511980</div>
+    <div className="H1" style={{width: 623, height: 53, left: 9, top: 86, position: 'absolute', color: '#3B3B3B', fontSize: 80, fontFamily: 'Outfit', fontWeight: '700', textTransform: 'capitalize', lineHeight: 87.52, wordWrap: 'break-word'}}>Neem Contact Op </div>
+    <div className="BodyText" style={{width: 559, left: 18, top: 190, position: 'absolute', color: '#6D6D6D', fontSize: 18, fontFamily: 'Satoshi', fontWeight: '400', textTransform: 'capitalize', lineHeight: 30.32, wordWrap: 'break-word'}}>Ben je klaar om je eigen succesverhaal te schrijven? Of je nu vragen hebt, suggesties, of gewoon in contact wilt komen, wij staan voor je klaar. Neem contact op met ons  team en laten we een gesprek beginnen!</div>
+    <div className="BodyText" style={{left: 872, top: 120, position: 'absolute', textAlign: 'center', color: '#838383', fontSize: 18, fontFamily: 'Satoshi', fontWeight: '400', textTransform: 'capitalize', lineHeight: 30.32, wordWrap: 'break-word'}}>name</div>
+    <div className="BodyText" style={{left: 872, top: 232, position: 'absolute', textAlign: 'center', color: '#838383', fontSize: 18, fontFamily: 'Satoshi', fontWeight: '400', textTransform: 'capitalize', lineHeight: 30.32, wordWrap: 'break-word'}}>email</div>
+    <div className="BodyText" style={{left: 872, top: 351, position: 'absolute', textAlign: 'center', color: '#838383', fontSize: 18, fontFamily: 'Satoshi', fontWeight: '400', textTransform: 'capitalize', lineHeight: 30.32, wordWrap: 'break-word'}}>message</div>
+    <div className="Frame39" style={{paddingLeft: 24, paddingRight: 24, paddingTop: 12, paddingBottom: 12, left: 9, top: 13, position: 'absolute', background: '#EEEEEE', borderRadius: 19, border: '1px black solid', justifyContent: 'center', alignItems: 'center', gap: 10, display: 'inline-flex'}}>
+      <div className="Tag" style={{color: 'black', fontSize: 12, fontFamily: 'Satoshi', fontWeight: '700', textTransform: 'uppercase', lineHeight: 20.21, wordWrap: 'break-word'}}>contact us</div>
+    </div>
+    <div className="Rectangle8" style={{width: 659, height: 70, left: 780, top: 98, position: 'absolute', borderRadius: 62, border: '1px #7D7D7D solid'}} />
+    <div className="Rectangle9" style={{width: 659, height: 74, left: 780, top: 208, position: 'absolute', borderRadius: 62, border: '1px #7D7D7D solid'}}></div>
+    <div className="Rectangle10" style={{width: 659, height: 249, left: 780, top: 326, position: 'absolute', borderRadius: 42, border: '1px #7D7D7D solid'}} />
+    <div className="Botton" style={{width: 229, height: 71.84, left: 780, top: 615, position: 'absolute', background: 'linear-gradient(91deg, #2DB4E3 0%, #0D4B9E 100%)', boxShadow: '0px 43px 33.79999923706055px -27px rgba(0, 0, 0, 0.19)', borderRadius: 38.62, overflow: 'hidden'}}>
+      <div className="Ellipse1" style={{width: 57.47, height: 57.47, left: 164, top: 6, position: 'absolute', background: '#F1F1F1', borderRadius: 9999}} />
+      <div className="Arrow1" style={{width: 14.62, height: 0, left: 188.25, top: 41.05, position: 'absolute', transform: 'rotate(-47.49deg)', transformOrigin: '0 0', border: '1.80px black solid'}}></div>
+      <div className="BodyText" style={{left: 66, top: 28, position: 'absolute', color: 'white', fontSize: 18, fontFamily: 'Satoshi', fontWeight: '700', textTransform: 'capitalize', lineHeight: 30.32, wordWrap: 'break-word'}}>submit</div>
+    </div>
+    <div className="MdiEmail" style={{width: 35, height: 35, paddingLeft: 2.92, paddingRight: 2.92, paddingTop: 5.83, paddingBottom: 5.83, left: 14, top: 351, position: 'absolute', justifyContent: 'center', alignItems: 'center', display: 'inline-flex'}}>
+      <div className="Vector" style={{width: 29.17, height: 23.33, background: '#595959'}}></div>
+    </div>
+    <div className="PhPhoneFill" style={{width: 32, height: 32, paddingTop: 3, paddingBottom: 4, paddingLeft: 4, paddingRight: 3, left: 18, top: 405, position: 'absolute', justifyContent: 'center', alignItems: 'center', display: 'inline-flex'}}>
+      <div className="Vector" style={{width: 25, height: 25, background: '#595959'}}></div>
+    </div>
+    <div className="Star" style={{width: 72.03, height: 79.92, left: 632, top: 13, position: 'absolute', background: 'black'}}></div>
+  </div>
+  <div className="BodyText" style={{left: 661, top: 74, position: 'absolute', color: '#838383', fontSize: 20, fontFamily: 'Satoshi', fontWeight: '500', textTransform: 'capitalize', lineHeight: 33.69, wordWrap: 'break-word'}}>home</div>
+  <div className="BodyText" style={{left: 738, top: 74, position: 'absolute', color: '#838383', fontSize: 20, fontFamily: 'Satoshi', fontWeight: '500', textTransform: 'capitalize', lineHeight: 33.69, wordWrap: 'break-word'}}>Over Ons</div>
+  <div className="BodyText" style={{left: 844, top: 74, position: 'absolute', color: '#838383', fontSize: 20, fontFamily: 'Satoshi', fontWeight: '500', textTransform: 'capitalize', lineHeight: 33.69, wordWrap: 'break-word'}}>Diensten</div>
+  <div className="BodyText" style={{left: 944, top: 74, position: 'absolute', color: '#838383', fontSize: 20, fontFamily: 'Satoshi', fontWeight: '500', textTransform: 'capitalize', lineHeight: 33.69, wordWrap: 'break-word'}}>webdesign</div>
+  <div className="BodyText" style={{left: 1242, top: 74, position: 'absolute', color: '#838383', fontSize: 20, fontFamily: 'Satoshi', fontWeight: '500', textTransform: 'capitalize', lineHeight: 33.69, wordWrap: 'break-word'}}>Contact</div>
+  <div className="BodyText" style={{left: 1067, top: 74, position: 'absolute', color: '#838383', fontSize: 20, fontFamily: 'Satoshi', fontWeight: '500', textTransform: 'capitalize', lineHeight: 33.69, wordWrap: 'break-word'}}>hr documentatie</div>
+  <div className="Vector" style={{width: 253.27, height: 53.16, left: 89, top: 54, position: 'absolute'}}></div>
+</div>
